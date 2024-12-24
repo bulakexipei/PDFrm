@@ -14,30 +14,6 @@ file_categories = {
     'prep'  :   'Prep',      
     'blank' :   'Prep',
     'test'  :   'Prep',
-    'qxt'   :   '2210CE01ZJ005000_QXT',
-    '2210ce01zj005000'   :   '2210CE01ZJ005000_QXT',
-    'gt'    :   '2304CE04ZJ002101_GT' ,
-    '2304ce04zj002101'    :   '2304CE04ZJ002101_GT' , 
-    'gtb' :   '2305CE04ZJ003101_GT' , 
-    '2305ce04zj003101' :   '2305CE04ZJ003101_GT' , 
-    'atb'   :   '2305CE05SZ002102_ATB',
-    '2305ce05sz002102'   :   '2305CE05SZ002102_ATB',
-    'vts' : '2303CE01SZ001102_VTS',
-    '2303ce01sz001102' : '2303CE01SZ001102_VTS',
-    'pd':'2309CE05SZ006101_Polymed_FFS',
-    '2309ce05sz006101':'2309CE05SZ006101_Polymed_FFS',
-    'tmai':'2310IE05SZ002102_TMAI',
-    '2310ie05sz002102':'2310IE05SZ002102_TMAI',
-    'tmails':'2202CE04ZJ999998_TMAI',
-    '2202ce04zj999998':'2202CE04ZJ999998_TMAI',
-    'alma': '2405CE04ZJ002101_ALMA',
-    '2405ce04zj002101': '2405CE04ZJ002101_ALMA',
-    'ql': '2312CE05SZ001101_QL',
-    '2312ce05sz001101': '2312CE05SZ001101_QL',
-    'ypyy': '2409CE04ZJ002101_YPYY',
-    '2409ce04zj002101': '2409CE04ZJ002101_YPYY'
-
-
 }
 
 source_folder = '\\\\10.96.1.231\\Agilent LCMS-02 Report\\ZJ-LCMS-02'
